@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMVC.MyApis", "APIMVC.MyApis\APIMVC.MyApis.csproj", "{0FF01A87-3739-41AD-92C6-28B4F26580BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMVC.UI", "APIMVC.UI\APIMVC.UI.csproj", "{E7D70AC7-DDC1-46B5-AF4E-F28834480947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF01A87-3739-41AD-92C6-28B4F26580BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF01A87-3739-41AD-92C6-28B4F26580BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF01A87-3739-41AD-92C6-28B4F26580BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF01A87-3739-41AD-92C6-28B4F26580BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D70AC7-DDC1-46B5-AF4E-F28834480947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D70AC7-DDC1-46B5-AF4E-F28834480947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D70AC7-DDC1-46B5-AF4E-F28834480947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D70AC7-DDC1-46B5-AF4E-F28834480947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85A4313-A1C3-46CE-BF8C-7E684D635AA4}
+	EndGlobalSection
+EndGlobal
